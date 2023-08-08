@@ -1,0 +1,11 @@
+## This project is organized into several folders for better organization and easy navigation.
+
+
+# Core Folders (3)
+.next: Created during project setup, this folder holds various information like cache, server settings, static assets, and types.
+app: Aligned with the latest router system, this folder houses all page files, each corresponding to its designated route based on the file hierarchy.
+public: This folder contains files that can be directly accessed from the root without needing any compilation. It's automatically cached in the client's browser for improved performance.
+
+# Supporting Folders
+components: Here, you'll find files for all the different components used throughout the project.
+utils: Important functions that play a role across the project are kept here for easy access and reusability.
